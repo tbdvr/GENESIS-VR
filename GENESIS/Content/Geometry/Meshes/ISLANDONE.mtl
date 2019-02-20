@@ -1,0 +1,14 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl material_1
+Ns 194.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.694118 0.517647 0.258824
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump 2_mtl1_bumpamt.bmp"
+map_Kd 2_mtl1_diffcol.bmp"
