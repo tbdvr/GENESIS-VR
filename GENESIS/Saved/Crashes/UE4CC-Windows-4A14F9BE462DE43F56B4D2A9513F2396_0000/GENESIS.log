@@ -1,0 +1,1338 @@
+﻿Log file open, 03/06/19 08:46:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GENESIS
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.306394
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.118s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.28.0
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 980 Ti
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.006s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.06-15.46.39:444][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.06-15.46.39:444][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.06-15.46.39:444][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Config/Windows/Engine.ini]
+[2019.03.06-15.46.39:444][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.06-15.46.39:444][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Config/Windows/Engine.ini]
+[2019.03.06-15.46.39:444][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Config/Windows/Engine.ini]
+[2019.03.06-15.46.39:444][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.06-15.46.39:444][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.06-15.46.39:444][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.06-15.46.39:444][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.06-15.46.39:444][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.06-15.46.39:444][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.06-15.46.39:444][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.06-15.46.39:444][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.06-15.46.39:444][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.06-15.46.39:444][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.06-15.46.39:444][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.06-15.46.39:444][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.06-15.46.39:444][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.06-15.46.39:444][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Config/Windows/Engine.ini]
+[2019.03.06-15.46.39:445][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.06-15.46.39:445][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.06-15.46.39:445][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.06-15.46.39:445][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.06-15.46.39:445][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.06-15.46.39:445][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.06-15.46.39:445][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.06-15.46.39:445][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.06-15.46.39:445][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.06-15.46.39:445][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.06-15.46.39:445][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.06-15.46.39:445][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.06-15.46.39:445][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.06-15.46.39:445][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.06-15.46.39:445][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Config/Windows/Engine.ini]
+[2019.03.06-15.46.39:445][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Config/Windows/Engine.ini]
+[2019.03.06-15.46.39:448][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Config/Windows/Scalability.ini]
+[2019.03.06-15.46.39:448][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.06-15.46.39:448][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.06-15.46.39:448][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Config/Windows/Scalability.ini]
+[2019.03.06-15.46.39:448][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.03.06-15.46.39:448][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Config/Windows/Scalability.ini]
+[2019.03.06-15.46.39:448][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.06-15.46.39:448][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.06-15.46.39:448][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.06-15.46.39:448][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.06-15.46.39:448][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.06-15.46.39:448][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.06-15.46.39:448][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.06-15.46.39:448][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.06-15.46.39:448][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.06-15.46.39:448][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.06-15.46.39:448][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.06-15.46.39:448][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.06-15.46.39:448][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Config/Windows/Scalability.ini]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Config/Windows/Scalability.ini]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Config/Windows/Scalability.ini]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.06-15.46.39:449][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.03.06-15.46.39:450][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.03.06-15.46.39:450][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.06-15.46.39:450][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.03.06-15.46.39:450][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.06-15.46.39:450][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.06-15.46.39:450][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.06-15.46.39:450][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.06-15.46.39:450][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.06-15.46.39:450][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.06-15.46.39:450][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.06-15.46.39:450][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Config/Windows/Scalability.ini]
+[2019.03.06-15.46.39:450][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.06-15.46.39:450][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.06-15.46.39:450][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.06-15.46.39:450][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.06-15.46.39:474][  0]LogHAL: Display: Platform has ~ 16 GB [17077735424 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.06-15.46.39:474][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.06-15.46.39:474][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.06-15.46.39:474][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Config/Windows/Scalability.ini]
+[2019.03.06-15.46.39:474][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.06-15.46.39:474][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Config/Windows/Scalability.ini]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Config/Windows/Scalability.ini]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Config/Windows/Scalability.ini]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Config/Windows/Scalability.ini]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Config/Windows/Scalability.ini]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Config/Windows/Scalability.ini]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.06-15.46.39:475][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.06-15.46.39:481][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.06-15.46.39:481][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Config/Windows/Engine.ini]
+[2019.03.06-15.46.39:481][  0]LogInit: Computer: DESKTOP-2SUL04T
+[2019.03.06-15.46.39:481][  0]LogInit: User: Urban
+[2019.03.06-15.46.39:481][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.06-15.46.39:481][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.03.06-15.46.39:482][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.03.06-15.46.39:482][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.06-15.46.39:482][  0]LogMemory: Process Physical Memory: 105.53 MB used, 105.54 MB peak
+[2019.03.06-15.46.39:482][  0]LogMemory: Process Virtual Memory: 95.30 MB used, 95.30 MB peak
+[2019.03.06-15.46.39:482][  0]LogMemory: Physical Memory: 6909.61 MB used,  9376.99 MB free, 16286.60 MB total
+[2019.03.06-15.46.39:482][  0]LogMemory: Virtual Memory: 4671.24 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.03.06-15.46.39:639][  0]LogInit: Using OS detected language (en-US).
+[2019.03.06-15.46.39:639][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.06-15.46.39:640][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.06-15.46.40:134][  0]LogStreaming: Display: Took  0.494s to InitEngineTextLocalization.
+[2019.03.06-15.46.40:134][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.06-15.46.40:223][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.06-15.46.40:223][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.06-15.46.43:210][  0]LogHMD: Failed to initialize OpenVR with code 300
+[2019.03.06-15.46.43:210][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.06-15.46.43:273][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2019.03.06-15.46.43:273][  0]LogD3D11RHI:       6097/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.06-15.46.43:282][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.03.06-15.46.43:282][  0]LogD3D11RHI:       128/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.06-15.46.43:285][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.06-15.46.43:285][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.06-15.46.43:285][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.06-15.46.43:294][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.06-15.46.43:294][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.06-15.46.43:294][  0]LogWindows: EnumDisplayDevices:
+[2019.03.06-15.46.43:294][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2019.03.06-15.46.43:294][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2019.03.06-15.46.43:295][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2019.03.06-15.46.43:295][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2019.03.06-15.46.43:295][  0]LogWindows:    4. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.03.06-15.46.43:295][  0]LogWindows:    5. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.03.06-15.46.43:296][  0]LogWindows:    6. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.03.06-15.46.43:296][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.03.06-15.46.43:296][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2019.03.06-15.46.43:296][  0]LogD3D11RHI:   Driver Version: 419.17 (internal:25.21.14.1917, unified:419.17)
+[2019.03.06-15.46.43:296][  0]LogD3D11RHI:      Driver Date: 2-20-2019
+[2019.03.06-15.46.43:296][  0]LogRHI: Texture pool is 4268 MB (70% of 6097 MB)
+[2019.03.06-15.46.43:341][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.06-15.46.43:367][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.03.06-15.46.43:783][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.06-15.46.43:794][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.06-15.46.43:809][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.06-15.46.43:822][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.06-15.46.43:840][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.06-15.46.43:854][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.06-15.46.43:867][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.06-15.46.43:878][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.06-15.46.43:886][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.06-15.46.43:969][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.06-15.46.43:969][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.06-15.46.43:969][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.06-15.46.43:969][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.06-15.46.43:969][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.06-15.46.43:969][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.06-15.46.43:969][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.06-15.46.43:969][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.06-15.46.43:969][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.06-15.46.43:969][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.06-15.46.43:969][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.06-15.46.43:969][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.06-15.46.43:969][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.06-15.46.43:969][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.06-15.46.43:969][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.06-15.46.43:969][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.06-15.46.43:969][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.06-15.46.43:969][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.06-15.46.43:971][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.06-15.46.44:041][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.06-15.46.44:041][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.06-15.46.44:066][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.06-15.46.44:066][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.06-15.46.44:077][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.06-15.46.44:091][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.06-15.46.44:107][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.06-15.46.44:134][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.06-15.46.44:188][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.06-15.46.44:188][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.06-15.46.44:188][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.06-15.46.44:265][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Intermediate/Shaders/WorkingDirectory/8360/).
+[2019.03.06-15.46.44:265][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Urban/AppData/Local/Temp/UnrealShaderWorkingDir/286BBAC542901F373B190FA4414F618F/'.
+[2019.03.06-15.46.44:266][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.06-15.46.44:266][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.06-15.46.44:266][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.06-15.46.46:191][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.06-15.46.46:267][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Urban/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.06-15.46.46:267][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Urban/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.06-15.46.46:267][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.06-15.46.46:267][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.06-15.46.46:267][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.06-15.46.46:267][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.06-15.46.46:288][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.06-15.46.46:288][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.06-15.46.46:288][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.06-15.46.46:300][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Urban/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.06-15.46.46:300][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.06-15.46.46:300][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.06-15.46.46:324][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.06-15.46.46:326][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.06-15.46.46:345][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.06-15.46.46:625][  0]LogAssetRegistry: FAssetRegistry took 0.0339 seconds to start up
+[2019.03.06-15.46.46:977][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.06-15.46.47:224][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.06-15.46.47:228][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.06-15.46.47:228][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.06-15.46.47:228][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.06-15.46.47:228][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.06-15.46.47:269][  0]LogNetVersion: GENESIS 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 558542273)
+[2019.03.06-15.46.48:484][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.131561 seconds
+[2019.03.06-15.46.48:490][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.03.06-15.46.48:490][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.03.06-15.46.48:490][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.06-15.46.51:520][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.06-15.46.51:534][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.06-15.46.52:366][  0]SourceControl: Source control is disabled
+[2019.03.06-15.46.53:471][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.06-15.46.53:705][  0]LogOcInput: OculusInput pre-init called
+[2019.03.06-15.46.53:866][  0]LogEngine: Initializing Engine...
+[2019.03.06-15.46.53:912][  0]LogHMD: Failed to initialize OpenVR with code 300
+[2019.03.06-15.46.53:914][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.06-15.46.53:914][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.06-15.46.53:914][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.06-15.46.53:914][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.06-15.46.54:395][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.06-15.46.54:407][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.06-15.46.54:464][  0]LogInit: XAudio2 using 'Speakers (JBL Xtreme 2 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.06-15.46.54:485][  0]LogInit: FAudioDevice initialized.
+[2019.03.06-15.46.54:485][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.06-15.46.54:547][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/Urban/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.06-15.46.54:561][  0]LogInit: Texture streaming: Enabled
+[2019.03.06-15.46.54:576][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.06-15.46.54:595][  0]LogInit: Transaction tracking system initialized
+[2019.03.06-15.46.54:613][  0]BlueprintLog: New page: Editor Load
+[2019.03.06-15.46.54:680][  0]LocalizationService: Localization service is disabled
+[2019.03.06-15.46.55:456][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.06-15.46.55:456][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.06-15.46.55:456][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.06-15.46.55:456][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.06-15.46.55:456][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.06-15.46.55:456][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.06-15.46.55:456][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.06-15.46.55:672][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.06-15.46.55:673][  0]LightingResults: New page: Lighting Build
+[2019.03.06-15.46.55:674][  0]MapCheck: New page: Map Check
+[2019.03.06-15.46.55:674][  0]LightingResults: New page: Lighting Build
+[2019.03.06-15.46.57:161][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.06-15.46.57:197][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.06-15.46.57:227][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.06-15.46.57:227][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.21ms to complete.
+[2019.03.06-15.46.57:227][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.555
+[2019.03.06-15.46.57:421][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.06-15.46.57:434][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.06-15.46.57:444][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.06-15.46.57:456][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.06-15.46.57:475][  0]LogCollectionManager: Loaded 0 collections in 0.001126 seconds
+[2019.03.06-15.46.57:506][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Collections/' took 0.01s
+[2019.03.06-15.46.57:506][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Developers/Urban/Collections/' took 0.00s
+[2019.03.06-15.46.57:506][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Collections/' took 0.00s
+[2019.03.06-15.46.57:506][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.06-15.46.57:520][  0]LogContentBrowser: Native class hierarchy populated in 0.0135 seconds. Added 2651 classes and 620 folders.
+[2019.03.06-15.46.57:533][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.06-15.46.57:550][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:562][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:591][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:596][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:603][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:609][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:614][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:622][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:633][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:641][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:648][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:658][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:667][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:674][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:688][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:732][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:738][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:744][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:752][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:799][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:806][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:812][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:821][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:827][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.57:834][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.06-15.46.58:000][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.06-15.46.58:011][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.03.06-15.46.58:089][  0]LogSlate: Took 0.011871 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.06-15.46.58:100][  0]LogSlate: Took 0.008887 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.06-15.46.58:115][  0]LogSlate: Took 0.006995 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.06-15.46.58:269][  0]LogRenderer: Reallocating scene render targets to support 772x368 Format 26 NumSamples 1 (Frame:1).
+[2019.03.06-15.46.58:460][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.06-15.46.58:460][  0]LogLoad: (Engine Initialization) Total time: 23.09 seconds
+[2019.03.06-15.46.58:460][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.06-15.46.58:527][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.06-15.46.58:551][  0]LogSlate: Took 0.007727 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.06-15.46.58:680][  2]LogAssetRegistry: Asset discovery search completed in 12.0783 seconds
+[2019.03.06-15.46.58:685][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.03.06-15.46.58:685][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000170 seconds (updated 0 objects)
+[2019.03.06-15.47.22:955][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.06-15.49.20:307][822]LogEditorActor: Deleted Actor: RecastNavMesh
+[2019.03.06-15.49.20:332][822]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2019.03.06-15.49.27:272][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.06-15.49.27:273][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.06-15.49.27:274][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.06-15.49.27:274][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.06-15.49.27:274][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.06-15.49.27:297][631]LogEditorActor: Deleted 5 Actors (0.028 secs)
+[2019.03.06-15.49.44:231][507]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2019.03.06-15.49.44:278][507]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.06-15.49.44:278][507]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2019.03.06-15.49.44:325][507]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.06-15.49.44:325][507]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.06-15.49.44:325][507]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2019.03.06-15.49.44:382][507]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.06-15.49.44:382][507]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.03.06-15.49.44:466][507]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2019.03.06-15.49.44:586][507]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.03.06-15.49.44:612][507]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.03.06-15.49.44:653][507]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.03.06-15.49.44:697][507]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.03.06-15.49.44:757][507]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2019.03.06-15.49.44:792][507]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.03.06-15.49.44:831][507]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.03.06-15.49.44:862][507]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.03.06-15.49.47:559][701]LogShaderCompilers: Display: Shaders left to compile 178
+[2019.03.06-15.49.49:822][870]LogShaderCompilers: Display: Shaders left to compile 168
+[2019.03.06-15.49.49:891][875]LogShaderCompilers: Display: Shaders left to compile 158
+[2019.03.06-15.49.49:891][875]LogShaderCompilers: Display: Shaders left to compile 148
+[2019.03.06-15.49.52:570][ 85]LogShaderCompilers: Display: Shaders left to compile 138
+[2019.03.06-15.49.54:203][210]LogShaderCompilers: Display: Shaders left to compile 128
+[2019.03.06-15.49.54:993][268]LogShaderCompilers: Display: Shaders left to compile 118
+[2019.03.06-15.49.55:054][272]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.03.06-15.49.57:836][486]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.03.06-15.49.59:255][597]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.03.06-15.50.00:213][654]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.03.06-15.50.00:285][660]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.03.06-15.50.00:492][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.06-15.50.02:385][794]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.03.06-15.50.03:637][880]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.03.06-15.50.04:645][963]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.03.06-15.50.04:784][975]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.06-15.50.07:445][172]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.06-15.50.08:747][271]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.06-15.50.11:808][546]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.06-15.50.11:891][546]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.03.06-15.50.11:912][546]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2019.03.06-15.50.20:635][546]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.03.06-15.50.20:635][546]LogShaderCompilers: Display: Shaders left to compile 111
+[2019.03.06-15.50.20:635][546]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.03.06-15.50.20:635][546]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.03.06-15.50.20:635][546]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.03.06-15.50.20:635][546]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.03.06-15.50.20:635][546]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.03.06-15.50.20:635][546]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.03.06-15.50.20:635][546]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.03.06-15.50.20:635][546]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.03.06-15.50.20:635][546]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.03.06-15.50.20:635][546]LogShaderCompilers: Display: Shaders left to compile 101
+[2019.03.06-15.50.20:635][546]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.03.06-15.50.20:635][546]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.03.06-15.50.20:635][546]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.03.06-15.50.20:635][546]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.03.06-15.50.20:635][546]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.03.06-15.50.20:635][546]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.03.06-15.50.20:635][546]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.03.06-15.50.20:635][546]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.03.06-15.50.20:635][546]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.03.06-15.50.20:635][546]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.03.06-15.50.20:635][546]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.03.06-15.50.20:636][546]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.06-15.50.20:637][546]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.06-15.50.54:486][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.06-15.52.03:861][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.06-15.52.20:223][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.06-15.52.29:176][326]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.06-15.52.37:437][273]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.06-15.52.37:554][273]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.06-15.52.38:007][273]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/ThirdPersonExampleMapE080CA1B43BD1C33CB26668FECB2387F.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.03.06-15.52.38:330][273]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/ThirdPersonExampleMap_BuiltDataA8C81E1847ED5DB363E9CEBC9300462F.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.03.06-15.52.43:805][865]MapCheck: New page: Map Check
+[2019.03.06-15.52.43:829][865]LightingResults: New page: Lighting Build - Mar 6, 2019, 1:52:43 AM
+[2019.03.06-15.52.43:901][865]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.03.06-15.52.44:047][865]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.03.06-15.52.44:060][865]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.03.06-15.52.45:078][865]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.03.06-15.52.45:078][865]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8360
+[2019.03.06-15.52.52:105][865]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.03.06-15.52.52:105][865]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.03.06-15.52.52:105][865]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.03.06-15.52.52:105][865]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.03.06-15.52.52:105][865]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.03.06-15.52.52:342][865]LogEditorBuildUtils: Build time 0:08
+[2019.03.06-15.52.52:393][866]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. Is special engine material.
+[2019.03.06-15.52.52:403][866]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. Is special engine material.
+[2019.03.06-15.52.52:415][867]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.06-15.52.52:446][868]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.06-15.53.20:298][194]Job is a success!
+[2019.03.06-15.53.20:367][195]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2019.03.06-15.53.20:367][195]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.03.06-15.53.20:367][195]LogVolumetricLightmapImport:      BrickData 205x5x5 = 0.2Mb
+[2019.03.06-15.53.20:367][195]LogVolumetricLightmapImport:      Bricks at Level
+[2019.03.06-15.53.20:367][195]LogVolumetricLightmapImport:          0: 2.4% covering 100.0% of volume
+[2019.03.06-15.53.20:367][195]LogVolumetricLightmapImport:          1: 9.8% covering 6.3% of volume
+[2019.03.06-15.53.20:367][195]LogVolumetricLightmapImport:          2: 87.8% covering 0.9% of volume
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 256X128)
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 256X128)
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 256X128)
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 256X128)
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 256X128)
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 256X128)
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 256X128)
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 256X128)
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2019.03.06-15.53.20:765][195]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 256X128)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 256X256)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 256X256)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 128X64)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 128X128)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 128X128)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 256X128)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 256X256)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 256X128)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 256X256)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 256X256)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 256X128)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 256X128)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 256X256)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 256X256)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 256X128)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 256X256)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 256X128)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 256X256)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 256X256)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 256X128)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 256X256)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 256X256)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: SkyOcclusion0_18 (AutoDXT, 256X128)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 256X256)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 256X256)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: SkyOcclusion0_19 (AutoDXT, 128X64)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 128X128)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 128X128)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: SkyOcclusion0_20 (AutoDXT, 256X128)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 256X256)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 256X256)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: SkyOcclusion0_21 (AutoDXT, 128X64)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 128X128)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 128X128)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: SkyOcclusion0_22 (AutoDXT, 64X32)
+[2019.03.06-15.53.20:766][195]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 64X64)
+[2019.03.06-15.53.20:767][195]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 64X64)
+[2019.03.06-15.53.20:965][195]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X64)
+[2019.03.06-15.53.20:965][195]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X64)
+[2019.03.06-15.53.20:968][195]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 256X64)
+[2019.03.06-15.53.20:968][195]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 256X64)
+[2019.03.06-15.53.20:968][195]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 256X64)
+[2019.03.06-15.53.20:968][195]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 512X64)
+[2019.03.06-15.53.20:970][195]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 256X64)
+[2019.03.06-15.53.20:971][195]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 128X64)
+[2019.03.06-15.53.20:971][195]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 256X64)
+[2019.03.06-15.53.20:983][195]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (BGRA8, 256X64)
+[2019.03.06-15.53.20:984][195]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 256X64)
+[2019.03.06-15.53.20:984][195]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 256X64)
+[2019.03.06-15.53.20:984][195]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (BGRA8, 256X64)
+[2019.03.06-15.53.20:984][195]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 256X64)
+[2019.03.06-15.53.20:984][195]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 256X64)
+[2019.03.06-15.53.20:984][195]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 64X64)
+[2019.03.06-15.53.20:984][195]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 256X64)
+[2019.03.06-15.53.20:984][195]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 256X64)
+[2019.03.06-15.53.20:984][195]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 128X64)
+[2019.03.06-15.53.20:984][195]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 32X32)
+[2019.03.06-15.53.20:984][195]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 256X64)
+[2019.03.06-15.53.20:984][195]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 256X64)
+[2019.03.06-15.53.21:020][195]Lightmass on DESKTOP-2SUL04T: 23.1 sec total, 1.44 sec importing, 1.06 sec setup, 5.78 sec photons, 14.8 sec processing, 0 ms extra exporting [67/67 mappings]. Threads: 1:43 min total, 52.3 sec processing.
+[2019.03.06-15.53.21:065][195]LogStaticLightingSystem: Illumination: 37.2 sec (351 ms encoding lightmaps, 204 ms encoding shadowmaps)
+[2019.03.06-15.53.21:065][195]LogStaticLightingSystem: Lightmap texture memory:  3.1 MB (3.1 MB streaming, 0.0 MB non-streaming), 44 textures
+[2019.03.06-15.53.21:065][195]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 22 textures
+[2019.03.06-15.53.21:141][195]DumpUnbuiltLightIteractions
+[2019.03.06-15.53.21:141][195]Lights with unbuilt interactions: 0
+[2019.03.06-15.53.21:141][195]
+[2019.03.06-15.53.21:141][195]Primitives with unbuilt interactions: 0
+[2019.03.06-15.53.21:216][196]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.03.06-15.53.21:216][196]MapCheck: New page: ThirdPersonExampleMap - Mar 6, 2019, 1:53:21 AM
+[2019.03.06-15.53.21:219][196]MapCheck: Warning: ISLANDONE_2 Static mesh actor has NULL StaticMesh property 
+[2019.03.06-15.53.21:219][196]MapCheck: Warning: ISLANDONETEXTUREtest_2 Static mesh actor has NULL StaticMesh property 
+[2019.03.06-15.53.21:220][196]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 3.993ms to complete.
+[2019.03.06-15.54.28:753][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/PAPERMANANIM.PAPERMANANIM:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/PAPERMAN/PAPERMANANIM.PackageMetaData'
+[2019.03.06-15.54.28:753][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/PAPERMANANIM.PAPERMANANIM_C' ref from Metadata '/Game/PAPERMAN/PAPERMANANIM.PackageMetaData'
+[2019.03.06-15.54.28:753][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/PAPERMANANIM.PAPERMANANIM:EventGraph.K2Node_Event_0' ref from Metadata '/Game/PAPERMAN/PAPERMANANIM.PackageMetaData'
+[2019.03.06-15.54.28:753][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/PAPERMANANIM.PAPERMANANIM:AnimGraph.AnimGraphNode_StateMachine_0.MOVEMENT.AnimStateEntryNode_0' ref from Metadata '/Game/PAPERMAN/PAPERMANANIM.PackageMetaData'
+[2019.03.06-15.54.28:753][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/PAPERMANANIM.PAPERMANANIM:AnimGraph.AnimGraphNode_StateMachine_0.MOVEMENT.AnimStateNode_1.Movement.AnimGraphNode_StateResult_0' ref from Metadata '/Game/PAPERMAN/PAPERMANANIM.PackageMetaData'
+[2019.03.06-15.54.28:753][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/PAPERMANANIM.SKEL_PAPERMANANIM_C:BlueprintUpdateAnimation' ref from Metadata '/Game/PAPERMAN/PAPERMANANIM.PackageMetaData'
+[2019.03.06-15.54.28:753][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/PAPERMANANIM.SKEL_PAPERMANANIM_C:Speed' ref from Metadata '/Game/PAPERMAN/PAPERMANANIM.PackageMetaData'
+[2019.03.06-15.54.28:753][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/PAPERMANANIM.SKEL_PAPERMANANIM_C:Direction' ref from Metadata '/Game/PAPERMAN/PAPERMANANIM.PackageMetaData'
+[2019.03.06-15.54.28:753][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/PAPERMANANIM.SKEL_PAPERMANANIM_C' ref from Metadata '/Game/PAPERMAN/PAPERMANANIM.PackageMetaData'
+[2019.03.06-15.54.28:753][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/PAPERMANANIM.PAPERMANANIM_C:Speed' ref from Metadata '/Game/PAPERMAN/PAPERMANANIM.PackageMetaData'
+[2019.03.06-15.54.28:753][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/PAPERMANANIM.PAPERMANANIM_C:Direction' ref from Metadata '/Game/PAPERMAN/PAPERMANANIM.PackageMetaData'
+[2019.03.06-15.54.28:753][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/PAPERMANANIM.PAPERMANANIM_C:BlueprintUpdateAnimation' ref from Metadata '/Game/PAPERMAN/PAPERMANANIM.PackageMetaData'
+[2019.03.06-15.54.28:802][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/Tasks/BTT_FindRandomLocation.BTT_FindRandomLocation_C' ref from Metadata '/Game/PAPERMAN/AI/Tasks/BTT_FindRandomLocation.PackageMetaData'
+[2019.03.06-15.54.28:802][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/Tasks/BTT_FindRandomLocation.SKEL_BTT_FindRandomLocation_C:ReceiveExecute' ref from Metadata '/Game/PAPERMAN/AI/Tasks/BTT_FindRandomLocation.PackageMetaData'
+[2019.03.06-15.54.28:802][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/Tasks/BTT_FindRandomLocation.SKEL_BTT_FindRandomLocation_C:MoveLocationKey' ref from Metadata '/Game/PAPERMAN/AI/Tasks/BTT_FindRandomLocation.PackageMetaData'
+[2019.03.06-15.54.28:802][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/Tasks/BTT_FindRandomLocation.SKEL_BTT_FindRandomLocation_C' ref from Metadata '/Game/PAPERMAN/AI/Tasks/BTT_FindRandomLocation.PackageMetaData'
+[2019.03.06-15.54.28:802][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/Tasks/BTT_FindRandomLocation.BTT_FindRandomLocation_C:MoveLocationKey' ref from Metadata '/Game/PAPERMAN/AI/Tasks/BTT_FindRandomLocation.PackageMetaData'
+[2019.03.06-15.54.28:802][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/Tasks/BTT_FindRandomLocation.BTT_FindRandomLocation_C:ReceiveExecute' ref from Metadata '/Game/PAPERMAN/AI/Tasks/BTT_FindRandomLocation.PackageMetaData'
+[2019.03.06-15.54.28:821][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/BT_PapermanAI.BT_PapermanAI:Behavior Tree.BehaviorTreeGraphNode_Root_0' ref from Metadata '/Game/PAPERMAN/AI/BT_PapermanAI.PackageMetaData'
+[2019.03.06-15.54.28:840][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/Blueprints/BP_PapermanAI.BP_PapermanAI_C' ref from Metadata '/Game/PAPERMAN/AI/Blueprints/BP_PapermanAI.PackageMetaData'
+[2019.03.06-15.54.28:840][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/Blueprints/BP_PapermanAI.BP_PapermanAI:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/PAPERMAN/AI/Blueprints/BP_PapermanAI.PackageMetaData'
+[2019.03.06-15.54.28:840][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/Blueprints/BP_PapermanAI.BP_PapermanAI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/PAPERMAN/AI/Blueprints/BP_PapermanAI.PackageMetaData'
+[2019.03.06-15.54.28:840][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/Blueprints/BP_PapermanAI.BP_PapermanAI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/PAPERMAN/AI/Blueprints/BP_PapermanAI.PackageMetaData'
+[2019.03.06-15.54.28:840][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/Blueprints/BP_PapermanAI.BP_PapermanAI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/PAPERMAN/AI/Blueprints/BP_PapermanAI.PackageMetaData'
+[2019.03.06-15.54.28:840][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/Blueprints/BP_PapermanAI.SKEL_BP_PapermanAI_C:ReceiveBeginPlay' ref from Metadata '/Game/PAPERMAN/AI/Blueprints/BP_PapermanAI.PackageMetaData'
+[2019.03.06-15.54.28:840][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/Blueprints/BP_PapermanAI.SKEL_BP_PapermanAI_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/PAPERMAN/AI/Blueprints/BP_PapermanAI.PackageMetaData'
+[2019.03.06-15.54.28:840][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/Blueprints/BP_PapermanAI.SKEL_BP_PapermanAI_C:ReceiveTick' ref from Metadata '/Game/PAPERMAN/AI/Blueprints/BP_PapermanAI.PackageMetaData'
+[2019.03.06-15.54.28:840][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/Blueprints/BP_PapermanAI.SKEL_BP_PapermanAI_C:UserConstructionScript' ref from Metadata '/Game/PAPERMAN/AI/Blueprints/BP_PapermanAI.PackageMetaData'
+[2019.03.06-15.54.28:840][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/Blueprints/BP_PapermanAI.SKEL_BP_PapermanAI_C' ref from Metadata '/Game/PAPERMAN/AI/Blueprints/BP_PapermanAI.PackageMetaData'
+[2019.03.06-15.54.28:871][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/AC_PapermanAI.AC_PapermanAI_C' ref from Metadata '/Game/PAPERMAN/AI/AC_PapermanAI.PackageMetaData'
+[2019.03.06-15.54.28:871][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/AC_PapermanAI.AC_PapermanAI:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/PAPERMAN/AI/AC_PapermanAI.PackageMetaData'
+[2019.03.06-15.54.28:871][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/AC_PapermanAI.SKEL_AC_PapermanAI_C:OnPossess' ref from Metadata '/Game/PAPERMAN/AI/AC_PapermanAI.PackageMetaData'
+[2019.03.06-15.54.28:871][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/AC_PapermanAI.SKEL_AC_PapermanAI_C:UserConstructionScript' ref from Metadata '/Game/PAPERMAN/AI/AC_PapermanAI.PackageMetaData'
+[2019.03.06-15.54.28:871][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/AC_PapermanAI.SKEL_AC_PapermanAI_C' ref from Metadata '/Game/PAPERMAN/AI/AC_PapermanAI.PackageMetaData'
+[2019.03.06-15.54.28:871][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/AC_PapermanAI.AC_PapermanAI_C:OnPossess' ref from Metadata '/Game/PAPERMAN/AI/AC_PapermanAI.PackageMetaData'
+[2019.03.06-15.54.28:871][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/AC_PapermanAI.AC_PapermanAI_C:UserConstructionScript' ref from Metadata '/Game/PAPERMAN/AI/AC_PapermanAI.PackageMetaData'
+[2019.03.06-15.54.28:973][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/AC_PapermanAI_2.AC_PapermanAI_2_C' ref from Metadata '/Game/PAPERMAN/AI/AC_PapermanAI_2.PackageMetaData'
+[2019.03.06-15.54.28:973][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/AC_PapermanAI_2.SKEL_AC_PapermanAI_2_C:OnPossess' ref from Metadata '/Game/PAPERMAN/AI/AC_PapermanAI_2.PackageMetaData'
+[2019.03.06-15.54.28:973][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/AC_PapermanAI_2.SKEL_AC_PapermanAI_2_C:UserConstructionScript' ref from Metadata '/Game/PAPERMAN/AI/AC_PapermanAI_2.PackageMetaData'
+[2019.03.06-15.54.28:973][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/AC_PapermanAI_2.SKEL_AC_PapermanAI_2_C' ref from Metadata '/Game/PAPERMAN/AI/AC_PapermanAI_2.PackageMetaData'
+[2019.03.06-15.54.28:973][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/AC_PapermanAI_2.AC_PapermanAI_2_C:OnPossess' ref from Metadata '/Game/PAPERMAN/AI/AC_PapermanAI_2.PackageMetaData'
+[2019.03.06-15.54.28:973][558]LogMetaData: Removing '/Game/Geometry/PAPERMAN/AI/AC_PapermanAI_2.AC_PapermanAI_2_C:UserConstructionScript' ref from Metadata '/Game/PAPERMAN/AI/AC_PapermanAI_2.PackageMetaData'
+[2019.03.06-15.54.29:061][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/PAPERMAN/PAPERMANBS" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Geometry/PAPERMAN/PAPERMANBS.uasset" SILENT=true
+[2019.03.06-15.54.29:083][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/PAPERMANBS908CAA8D43A0683B63F8D8B8FF7CBDAE.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Geometry/PAPERMAN/PAPERMANBS.uasset'
+[2019.03.06-15.54.29:907][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PAPERMAN/PAPERMANBS" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/PAPERMANBS.uasset" SILENT=true
+[2019.03.06-15.54.29:921][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/PAPERMANBS1AACC9CF4664AE26C482D78273F11D46.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/PAPERMANBS.uasset'
+[2019.03.06-15.54.29:985][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Run_Forward0C42F9364687CFDF7F7E3BB6168DA822.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Geometry/PAPERMAN/Animations/Run_Forward.uasset'
+[2019.03.06-15.54.30:417][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PAPERMAN/Animations/Run_Forward" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/Animations/Run_Forward.uasset" SILENT=true
+[2019.03.06-15.54.30:433][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Run_Forward492A680047D8653769115696780921A8.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/Animations/Run_Forward.uasset'
+[2019.03.06-15.54.30:485][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Happy_Walk081D975446D56598D5D0808F8A9727A2.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Geometry/PAPERMAN/Animations/Happy_Walk.uasset'
+[2019.03.06-15.54.31:149][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PAPERMAN/Animations/Happy_Walk" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/Animations/Happy_Walk.uasset" SILENT=true
+[2019.03.06-15.54.31:167][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Happy_Walk4057C2E345383718D04543AB0BA04558.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/Animations/Happy_Walk.uasset'
+[2019.03.06-15.54.31:208][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Happy_IdleE9ED235C4B9624890707C4AFC5B13CC3.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Geometry/PAPERMAN/Animations/Happy_Idle.uasset'
+[2019.03.06-15.54.31:857][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PAPERMAN/Animations/Happy_Idle" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/Animations/Happy_Idle.uasset" SILENT=true
+[2019.03.06-15.54.31:874][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/Happy_IdleF19333004B20CAFAB76ED1A8698B74A6.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/Animations/Happy_Idle.uasset'
+[2019.03.06-15.54.31:894][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/PAPERMAN1thin_SkeletonDF82AB28468B7B423F32D0A30BD13ACF.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Geometry/PAPERMAN/PAPERMAN1thin_Skeleton.uasset'
+[2019.03.06-15.54.32:299][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PAPERMAN/PAPERMAN1thin_Skeleton" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/PAPERMAN1thin_Skeleton.uasset" SILENT=true
+[2019.03.06-15.54.32:314][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/PAPERMAN1thin_SkeletonC98E13A2497A3B9088C0078D8F08A43F.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/PAPERMAN1thin_Skeleton.uasset'
+[2019.03.06-15.54.32:331][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/PAPERMAN/PAPERMANANIM" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Geometry/PAPERMAN/PAPERMANANIM.uasset" SILENT=true
+[2019.03.06-15.54.32:366][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/PAPERMANANIM34F1492E49C0EC7FE0AD91B062A1C5B7.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Geometry/PAPERMAN/PAPERMANANIM.uasset'
+[2019.03.06-15.54.32:990][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PAPERMAN/PAPERMANANIM" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/PAPERMANANIM.uasset" SILENT=true
+[2019.03.06-15.54.33:009][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/PAPERMANANIMB93A3D5B48AAB92A53EAB1B4F629F9DD.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/PAPERMANANIM.uasset'
+[2019.03.06-15.54.33:021][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/BB_PapermanAID1B14B8544746962113899914D4047F4.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Geometry/PAPERMAN/AI/BB_PapermanAI.uasset'
+[2019.03.06-15.54.33:666][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PAPERMAN/AI/BB_PapermanAI" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/AI/BB_PapermanAI.uasset" SILENT=true
+[2019.03.06-15.54.33:677][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/BB_PapermanAI8BE53E1F43AA43367AABEBB6711DF79F.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/AI/BB_PapermanAI.uasset'
+[2019.03.06-15.54.33:708][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/BTT_FindRandomLocationB77BF2A14D667875B70F66A03040E7E1.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Geometry/PAPERMAN/AI/Tasks/BTT_FindRandomLocation.uasset'
+[2019.03.06-15.54.34:146][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/BTT_FindRandomLocation3BAF421E48CCAB7DF7556FB1780831AE.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/AI/Tasks/BTT_FindRandomLocation.uasset'
+[2019.03.06-15.54.34:165][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/BT_PapermanAID543FDF044B63FC4FC73C881A2119302.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Geometry/PAPERMAN/AI/BT_PapermanAI.uasset'
+[2019.03.06-15.54.34:843][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PAPERMAN/AI/BT_PapermanAI" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/AI/BT_PapermanAI.uasset" SILENT=true
+[2019.03.06-15.54.34:858][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/BT_PapermanAI24DFBBBC43C3CC0D0277E88ADA7E5365.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/AI/BT_PapermanAI.uasset'
+[2019.03.06-15.54.34:920][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/BP_PapermanAICC7C02524197A0F28E1D61B3DA9AD6AD.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Geometry/PAPERMAN/AI/Blueprints/BP_PapermanAI.uasset'
+[2019.03.06-15.54.35:348][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/BP_PapermanAI45C222774ED34F3B9897E796EEC9496F.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/AI/Blueprints/BP_PapermanAI.uasset'
+[2019.03.06-15.54.35:370][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/AC_PapermanAI8084C33E4D195A9297881A810A4AC2C1.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Geometry/PAPERMAN/AI/AC_PapermanAI.uasset'
+[2019.03.06-15.54.36:016][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PAPERMAN/AI/AC_PapermanAI" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/AI/AC_PapermanAI.uasset" SILENT=true
+[2019.03.06-15.54.36:031][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/AC_PapermanAIC3041E34429830F31C317A9C237AD1C3.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/AI/AC_PapermanAI.uasset'
+[2019.03.06-15.54.36:068][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/PAPERMAN1thin_PhysicsAsset69843D1E43C23D1851B295A70A695B09.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Geometry/PAPERMAN/PAPERMAN1thin_PhysicsAsset.uasset'
+[2019.03.06-15.54.36:746][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/PAPERMAN1thin_PhysicsAsset5F3FE62A4B0A9B2EAA02079276A6E83B.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/PAPERMAN1thin_PhysicsAsset.uasset'
+[2019.03.06-15.54.36:770][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/PAPERMAN/PAPERMAN1thin" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Geometry/PAPERMAN/PAPERMAN1thin.uasset" SILENT=true
+[2019.03.06-15.54.36:929][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/PAPERMAN1thinFFC25520492F43B083BB7684F25AA8F3.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Geometry/PAPERMAN/PAPERMAN1thin.uasset'
+[2019.03.06-15.54.37:536][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PAPERMAN/PAPERMAN1thin" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/PAPERMAN1thin.uasset" SILENT=true
+[2019.03.06-15.54.37:570][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/PAPERMAN1thin34E5B8A1414918C0F9E6E28F043FCE19.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/PAPERMAN1thin.uasset'
+[2019.03.06-15.54.37:597][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/AC_PapermanAI_248CF9A4248949F6A5F82E38309DBC3A4.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Geometry/PAPERMAN/AI/AC_PapermanAI_2.uasset'
+[2019.03.06-15.54.38:228][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PAPERMAN/AI/AC_PapermanAI_2" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/AI/AC_PapermanAI_2.uasset" SILENT=true
+[2019.03.06-15.54.38:244][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/AC_PapermanAI_2E42106C44C5FC7CEFC37F5BC2B76C423.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/AI/AC_PapermanAI_2.uasset'
+[2019.03.06-15.54.38:256][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/BB_PapermanAI_22E32E25D4E1E0CE1019017978F65506F.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Geometry/PAPERMAN/AI/BB_PapermanAI_2.uasset'
+[2019.03.06-15.54.38:866][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PAPERMAN/AI/BB_PapermanAI_2" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/AI/BB_PapermanAI_2.uasset" SILENT=true
+[2019.03.06-15.54.38:881][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/BB_PapermanAI_2600F973941544D72EA5558BCB29B1B20.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/AI/BB_PapermanAI_2.uasset'
+[2019.03.06-15.54.38:897][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/BT_PapermanAI_2D42AAEDC44ACD71A033BE9BB145E12BB.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Geometry/PAPERMAN/AI/BT_PapermanAI_2.uasset'
+[2019.03.06-15.54.39:296][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PAPERMAN/AI/BT_PapermanAI_2" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/AI/BT_PapermanAI_2.uasset" SILENT=true
+[2019.03.06-15.54.39:311][558]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/BT_PapermanAI_204DBA1E641FFA1E4B34DBAA653CD6F5B.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/PAPERMAN/AI/BT_PapermanAI_2.uasset'
+[2019.03.06-15.55.23:934][581]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/ThirdPersonExampleMapD1ECDB5042B24AECF9C03887DBB5F3D8.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.03.06-15.55.24:233][581]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/ThirdPersonExampleMap_BuiltData0E5B282040C71F033D609BB0760AFFA5.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.03.06-15.55.43:732][217]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.03.06-15.55.46:155][217]LogSlate: Window 'Save Content' being destroyed
+[2019.03.06-15.55.46:356][217]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/AC_PapermanAI77EE690C4167B602EB59EC97DEFACD53.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Geometry/PAPERMAN/AI/AC_PapermanAI.uasset'
+[2019.03.06-15.55.46:376][217]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/AC_PapermanAI_22409AED443F329A2099AE8B0B74E1D5B.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Geometry/PAPERMAN/AI/AC_PapermanAI_2.uasset'
+[2019.03.06-15.55.46:399][217]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/BP_PapermanAI569798FA4336E2FD081B2F8EE8002265.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/Geometry/PAPERMAN/AI/Blueprints/BP_PapermanAI.uasset'
+[2019.03.06-15.55.46:405][217]Cmd: MAP LOAD FILE="../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.06-15.55.46:405][217]LightingResults: New page: Lighting Build
+[2019.03.06-15.55.46:407][217]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.03.06-15.55.46:410][217]MapCheck: New page: Map Check
+[2019.03.06-15.55.46:410][217]LightingResults: New page: Lighting Build
+[2019.03.06-15.55.46:558][217]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.06-15.55.46:590][217]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.06-15.55.46:662][217]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.06-15.55.46:662][217]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.126ms to complete.
+[2019.03.06-15.55.46:664][217]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.260
+[2019.03.06-15.56.00:084][631]LogMetaData: Removing '/Game/ThirdPersonBP/Maps/GENESISLAB.GENESISLAB_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2019.03.06-15.56.00:084][631]LogMetaData: Removing '/Game/ThirdPersonBP/Maps/GENESISLAB.SKEL_GENESISLAB_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2019.03.06-15.56.00:285][631]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/GENESISLAB_BuiltData9F1B831E403F224F41B6AC8304D7F1B7.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/ThirdPersonBP/Maps/GENESISLAB_BuiltData.uasset'
+[2019.03.06-15.56.00:444][631]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2019.03.06-15.56.00:444][631]SourceControl: Error: GENESIS/Content/ThirdPersonBP/Maps/GENESISLAB_BuiltData.uasset
+[2019.03.06-15.56.00:444][631]SourceControl: Error: Use -f if you really want to add them.
+[2019.03.06-15.56.00:766][631]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/GENESISLAB2816983D484FBC80C2C7CFB087F11C84.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/ThirdPersonBP/Maps/GENESISLAB.umap'
+[2019.03.06-15.56.01:253][631]LogFileHelpers: Saving map 'GENESISLAB' took 0.799
+[2019.03.06-15.56.01:272][631]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/ThirdPersonExampleMap1A520F9548B1212CD50F0DAB3E0B43D2.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.03.06-15.56.17:706][397]LogBlueprint: Warning: [Compiler HMDLocomotionPawn] InputAction Event references unknown Action 'HMDTeleport' for  InputAction HMDTeleport
+[2019.03.06-15.56.17:709][397]LogBlueprint: Warning: [Compiler HMDLocomotionPawn] Get Input Axis references unknown Axis 'TeleportDirectionRight' for  Get TeleportDirectionRight
+[2019.03.06-15.56.17:709][397]LogBlueprint: Warning: [Compiler HMDLocomotionPawn] Get Input Axis references unknown Axis 'TeleportDirectionUp' for  Get TeleportDirectionUp
+[2019.03.06-15.56.17:710][397]LogBlueprint: Warning: [Compiler HMDLocomotionPawn] Get Input Axis references unknown Axis 'TeleportDirectionRight' for  Get TeleportDirectionRight
+[2019.03.06-15.56.17:711][397]LogBlueprint: Warning: [Compiler HMDLocomotionPawn] Get Input Axis references unknown Axis 'TeleportDirectionUp' for  Get TeleportDirectionUp
+[2019.03.06-15.56.17:719][397]LogBlueprint: Warning: [Compiler HMDLocomotionPawn] [0582.35] Compile of HMDLocomotionPawn successful, but with 5 Warning(s) [in 28 ms] (/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn)
+[2019.03.06-15.56.17:787][397]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbRight_X' for  Get MotionControllerThumbRight_X
+[2019.03.06-15.56.17:787][397]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbRight_Y' for  Get MotionControllerThumbRight_Y
+[2019.03.06-15.56.17:787][397]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbLeft_Y' for  Get MotionControllerThumbLeft_Y
+[2019.03.06-15.56.17:787][397]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbLeft_X' for  Get MotionControllerThumbLeft_X
+[2019.03.06-15.56.17:788][397]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportRight' for  InputAction TeleportRight
+[2019.03.06-15.56.17:788][397]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportLeft' for  InputAction TeleportLeft
+[2019.03.06-15.56.17:788][397]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'GrabRight' for  InputAction GrabRight
+[2019.03.06-15.56.17:788][397]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'GrabLeft' for  InputAction GrabLeft
+[2019.03.06-15.56.17:797][397]LogBlueprint: Warning: [Compiler MotionControllerPawn] [0582.43] Compile of MotionControllerPawn successful, but with 8 Warning(s) [in 20 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2019.03.06-15.56.17:883][397]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2019.03.06-15.56.17:986][397]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.03.06-15.56.18:054][397]LogMaterial: Display: Missing cached shader map for material GenericHMDMaterial, compiling. 
+[2019.03.06-15.56.18:073][397]LogAIModule: Creating AISystem for world StartupMap
+[2019.03.06-15.56.18:078][397]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.06-15.56.18:078][397]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.06-15.56.18:078][397]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.06-15.56.20:819][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:819][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:819][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController:GetActorNearHand.K2Node_FunctionEntry_9' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:819][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController:ActivateTeleporter.K2Node_FunctionEntry_440' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:819][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController:ReleaseActor.K2Node_FunctionEntry_91' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:819][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController:GrabActor.K2Node_FunctionEntry_307' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:819][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController:GetActorNearHand.K2Node_FunctionResult_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:819][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController:TraceTeleportDestination.K2Node_FunctionEntry_558' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:819][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController:DisableTeleporter.K2Node_FunctionEntry_533' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:819][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController:TraceTeleportDestination.K2Node_FunctionResult_1' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:819][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController:UpdateArcSpline.K2Node_FunctionEntry_857' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:819][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController:ClearArc.K2Node_FunctionEntry_816' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:819][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController:UpdateArcEndpoint.K2Node_FunctionEntry_903' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:819][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController:SetupRoomScaleOutline.K2Node_FunctionEntry_122' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:819][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController:UpdateRoomScaleOutline.K2Node_FunctionEntry_163' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:819][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController:GetTeleportDestination.K2Node_FunctionResult_1' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:819][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController:GetTeleportDestination.K2Node_FunctionEntry_343' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:819][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:BndEvt__ControllerMesh_K2Node_ComponentBoundEvent_0_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:819][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:819][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:819][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:RumbleController' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:BndEvt__Sphere_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:InitialControllerRotation' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:TeleportLaunchVelocity' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:TeleportRotation' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:bWantsToGrip' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:GripState' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:IsValidTeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:TeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:IsRoomScale' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:bLastFrameValidDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:SplineMeshes' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:IsTeleporterActive' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:AttachedActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:Hand' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:Scene' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:MotionController' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:ArcEndPoint' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:TeleportCylinder' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:SteamVRChaperone' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:Ring' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:HandMesh' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:ArcDirection' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:ArcSpline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:GrabSphere' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:Arrow' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:RoomScaleMesh' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:GetActorNearHand.NearestOverlappingActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:GetActorNearHand.NearestOverlap' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:GetActorNearHand' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:ReleaseActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:GrabActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:ActivateTeleporter' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:DisableTeleporter' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:TraceTeleportDestination.CurrentTraceStart' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:TraceTeleportDestination.HitSurface' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:TraceTeleportDestination.NrOfSegments' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:TraceTeleportDestination.UsedTracePoints' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:TraceTeleportDestination.ProjectNavExtends' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:TraceTeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:ClearArc' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:UpdateArcSpline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:UpdateArcEndpoint' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:SetupRoomScaleOutline.ChaperoneMeshHeight' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:SetupRoomScaleOutline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:820][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:UpdateRoomScaleOutline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:GetTeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:InitialControllerRotation' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:TeleportLaunchVelocity' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:TeleportRotation' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:bWantsToGrip' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:GripState' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:IsValidTeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:TeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:IsRoomScale' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:bLastFrameValidDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:SplineMeshes' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:IsTeleporterActive' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:AttachedActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:Hand' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:Scene' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:MotionController' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ArcEndPoint' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:TeleportCylinder' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:SteamVRChaperone' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:Ring' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:HandMesh' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ArcDirection' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ArcSpline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:GrabSphere' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:Arrow' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:RoomScaleMesh' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:GetActorNearHand' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ReleaseActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:GrabActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ActivateTeleporter' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:DisableTeleporter' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:TraceTeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ClearArc' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:UpdateArcSpline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:UpdateArcEndpoint' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:SetupRoomScaleOutline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:UpdateRoomScaleOutline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:GetTeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:GetActorNearHand.NearestOverlap' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:GetActorNearHand.NearestOverlappingActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:TraceTeleportDestination.ProjectNavExtends' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:TraceTeleportDestination.UsedTracePoints' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:TraceTeleportDestination.NrOfSegments' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:TraceTeleportDestination.HitSurface' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:TraceTeleportDestination.CurrentTraceStart' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:821][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:SetupRoomScaleOutline.ChaperoneMeshHeight' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:822][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:RumbleController' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2019.03.06-15.56.20:831][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_PickupCube.PackageMetaData'
+[2019.03.06-15.56.20:831][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_PickupCube.PackageMetaData'
+[2019.03.06-15.56.20:831][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube:EventGraph.K2Node_Event_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_PickupCube.PackageMetaData'
+[2019.03.06-15.56.20:831][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube:EventGraph.K2Node_Event_1' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_PickupCube.PackageMetaData'
+[2019.03.06-15.56.20:831][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube:EventGraph.K2Node_Event_2' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_PickupCube.PackageMetaData'
+[2019.03.06-15.56.20:831][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_PickupCube.SKEL_BP_PickupCube_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_PickupCube.PackageMetaData'
+[2019.03.06-15.56.20:831][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_PickupCube.SKEL_BP_PickupCube_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_PickupCube.PackageMetaData'
+[2019.03.06-15.56.20:831][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_PickupCube.SKEL_BP_PickupCube_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_PickupCube.PackageMetaData'
+[2019.03.06-15.56.20:831][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_PickupCube.SKEL_BP_PickupCube_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_PickupCube.PackageMetaData'
+[2019.03.06-15.56.20:831][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_PickupCube.SKEL_BP_PickupCube_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_PickupCube.PackageMetaData'
+[2019.03.06-15.56.20:831][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_PickupCube.PackageMetaData'
+[2019.03.06-15.56.20:839][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/GripEnum.GripEnum' ref from Metadata '/Game/VirtualRealityBP/Blueprints/GripEnum.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn:EventGraph.K2Node_Event_2' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn:GetTeleportDestination.K2Node_FunctionResult_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn:GetTeleportDestination.K2Node_FunctionEntry_1' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn:ShouldUpdateFacingDirection.K2Node_FunctionResult_1' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn:ShouldUpdateFacingDirection.K2Node_FunctionEntry_229' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn:GetThumbstickFacingDirection.K2Node_FunctionEntry_160' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn:UpdateTeleportDirection.K2Node_FunctionEntry_177' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:UseGamepad' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:RingGlowMatInst' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:DefaultPlayerHeight' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:TeleportFadeColor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:FadeInDuration' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:FadeOutDuration' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:bCurrentLocationValid' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:CurrentLookAtLocation' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:RotationLengthThreshold' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:PinnedRotation' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:bLocationPinned' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:bLocationFound' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:PinnedLocation' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:DefaultSceneRoot' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:VROrigin' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:Camera' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:TeleportPin' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:Ring' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:Arrow' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:TraceDirection' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:850][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:GetTeleportDestination.ProjectNavExtends' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:UseGamepad' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:RingGlowMatInst' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:DefaultPlayerHeight' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:TeleportFadeColor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:FadeInDuration' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:FadeOutDuration' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:bCurrentLocationValid' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:CurrentLookAtLocation' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:RotationLengthThreshold' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:PinnedRotation' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:bLocationPinned' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:bLocationFound' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:PinnedLocation' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:DefaultSceneRoot' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:VROrigin' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:Camera' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:TeleportPin' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:Ring' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:Arrow' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:TraceDirection' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:851][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:GetTeleportDestination.ProjectNavExtends' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn:EventGraph.K2Node_Event_126' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn:UserConstructionScript.K2Node_FunctionEntry_15' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn:GetRotationFromInput.K2Node_FunctionEntry_374' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:UseControllerRollToRotate' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:DefaultPlayerHeight' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:LeftStickDown' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:RightStickDown' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ThumbDeadzone' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:TeleportFadeColor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:IsTeleporting' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:FadeInDuration' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:FadeOutDuration' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:RightController' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:LeftController' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:bShowChaperone' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:DefaultSceneRoot' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:VROrigin' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:Camera' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:GetRotationFromInput' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:UseControllerRollToRotate' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:867][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:DefaultPlayerHeight' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:868][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:LeftStickDown' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:868][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:RightStickDown' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:868][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ThumbDeadzone' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:868][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:TeleportFadeColor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:868][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:IsTeleporting' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:868][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:FadeInDuration' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:868][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:FadeOutDuration' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:868][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:RightController' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:868][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:LeftController' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:868][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:bShowChaperone' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:868][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:DefaultSceneRoot' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:868][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:VROrigin' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:868][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:Camera' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:868][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:868][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:868][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:868][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:GetRotationFromInput' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2019.03.06-15.56.20:875][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/PickupActorInterface.PickupActorInterface:Drop.K2Node_FunctionEntry_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/PickupActorInterface.PackageMetaData'
+[2019.03.06-15.56.20:875][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/PickupActorInterface.PickupActorInterface_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/PickupActorInterface.PackageMetaData'
+[2019.03.06-15.56.20:875][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/PickupActorInterface.PickupActorInterface:Pickup.K2Node_FunctionEntry_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/PickupActorInterface.PackageMetaData'
+[2019.03.06-15.56.20:875][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Blueprints/PickupActorInterface.SKEL_PickupActorInterface_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/PickupActorInterface.PackageMetaData'
+[2019.03.06-15.56.21:038][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' ref from Metadata '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.PackageMetaData'
+[2019.03.06-15.56.21:038][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Maps/HMDLocomotionMap.SKEL_HMDLocomotionMap_C' ref from Metadata '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.PackageMetaData'
+[2019.03.06-15.56.21:203][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' ref from Metadata '/Game/VirtualRealityBP/Maps/MotionControllerMap.PackageMetaData'
+[2019.03.06-15.56.21:203][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Maps/MotionControllerMap.SKEL_MotionControllerMap_C' ref from Metadata '/Game/VirtualRealityBP/Maps/MotionControllerMap.PackageMetaData'
+[2019.03.06-15.56.21:345][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Maps/StartupMap.StartupMap_C' ref from Metadata '/Game/VirtualRealityBP/Maps/StartupMap.PackageMetaData'
+[2019.03.06-15.56.21:346][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap.EventGraph.K2Node_Event_0' ref from Metadata '/Game/VirtualRealityBP/Maps/StartupMap.PackageMetaData'
+[2019.03.06-15.56.21:346][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap.EventGraph.K2Node_Event_1' ref from Metadata '/Game/VirtualRealityBP/Maps/StartupMap.PackageMetaData'
+[2019.03.06-15.56.21:346][397]LogMetaData: Removing '/Game/VirtualReality/VirtualRealityBP/Maps/StartupMap.SKEL_StartupMap_C' ref from Metadata '/Game/VirtualRealityBP/Maps/StartupMap.PackageMetaData'
+[2019.03.06-15.56.21:402][397]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/StartupMap_BuiltData33D0A2F14331F0BFC69AE2B20D608DF3.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualReality/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset'
+[2019.03.06-15.56.21:558][397]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2019.03.06-15.56.21:558][397]SourceControl: Error: GENESIS/Content/VirtualReality/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset
+[2019.03.06-15.56.21:558][397]SourceControl: Error: Use -f if you really want to add them.
+[2019.03.06-15.56.21:719][397]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/MotionControllerMap_BuiltDataEE63CDA14245A7A31E90688218F40494.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualReality/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2019.03.06-15.56.21:876][397]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2019.03.06-15.56.21:876][397]SourceControl: Error: GENESIS/Content/VirtualReality/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset
+[2019.03.06-15.56.21:876][397]SourceControl: Error: Use -f if you really want to add them.
+[2019.03.06-15.56.22:041][397]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/HMDLocomotionMap_BuiltData218685834C8EB0760E9965BD1AF03029.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualReality/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData.uasset'
+[2019.03.06-15.56.22:197][397]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2019.03.06-15.56.22:197][397]SourceControl: Error: GENESIS/Content/VirtualReality/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData.uasset
+[2019.03.06-15.56.22:197][397]SourceControl: Error: Use -f if you really want to add them.
+[2019.03.06-15.56.22:491][397]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/BP_MotionController507E1EB0431563D246FF25A98278CCEA.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualReality/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2019.03.06-15.56.23:319][397]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/BP_MotionController53B5E8F54E856A1E34568D8459871663.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2019.03.06-15.56.23:387][397]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/BP_PickupCubeE0AE493A4185CBCDBDFD3CBF1EEB1218.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualReality/VirtualRealityBP/Blueprints/BP_PickupCube.uasset'
+[2019.03.06-15.56.24:095][397]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/BP_PickupCubeAE9A11BA4CF8F836F3F54F873F890CFD.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset'
+[2019.03.06-15.56.24:109][397]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/GripEnumB1DCAA0A4D4AB989C209FA8DED432291.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualReality/VirtualRealityBP/Blueprints/GripEnum.uasset'
+[2019.03.06-15.56.24:831][397]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/GripEnum20B0D2B44DC7619F28624A81DCBF5FEF.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualRealityBP/Blueprints/GripEnum.uasset'
+[2019.03.06-15.56.24:992][397]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/HMDLocomotionPawn4B47D7194A05E9CB14A0DEAE6C70736E.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualReality/VirtualRealityBP/Blueprints/HMDLocomotionPawn.uasset'
+[2019.03.06-15.56.25:518][397]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/HMDLocomotionPawnB1B328404313AC693C173790C07EA77B.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualRealityBP/Blueprints/HMDLocomotionPawn.uasset'
+[2019.03.06-15.56.25:533][397]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/MotionControllerHapticsFDC40DAB4348BE96F42229A8BDDC71E3.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset'
+[2019.03.06-15.56.26:202][397]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/MotionControllerHapticsA6C029AA445894A9E53BC295EAF4E937.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset'
+[2019.03.06-15.56.26:314][397]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/MotionControllerPawnC14AA4B445A4B92A837358B2FB153DBF.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualReality/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2019.03.06-15.56.27:006][397]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/MotionControllerPawn2803283646DC3B31D0501793E56B9F17.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2019.03.06-15.56.27:026][397]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/PickupActorInterfaceF1FB031F4FB77108A0434491680DE167.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualReality/VirtualRealityBP/Blueprints/PickupActorInterface.uasset'
+[2019.03.06-15.56.27:721][397]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/PickupActorInterfaceE115776C4193BA055E7166ACE6C2D489.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualRealityBP/Blueprints/PickupActorInterface.uasset'
+[2019.03.06-15.56.27:950][397]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/HMDLocomotionMapE793E9404C994C451A14CA857A8D452E.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualReality/VirtualRealityBP/Maps/HMDLocomotionMap.umap'
+[2019.03.06-15.56.28:367][397]LogFileHelpers: Saving map 'HMDLocomotionMap' took 0.640
+[2019.03.06-15.56.28:388][397]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/HMDLocomotionMap58B2A6FA4C46B535BF96DE8A9B68B526.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap'
+[2019.03.06-15.56.28:586][397]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/MotionControllerMapEDB7D58B42115D8DD73B8FA45F1865FC.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualReality/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2019.03.06-15.56.29:243][397]LogFileHelpers: Saving map 'MotionControllerMap' took 0.849
+[2019.03.06-15.56.29:270][397]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/MotionControllerMap2881689C4731C9627867DA93A116D488.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2019.03.06-15.56.29:485][397]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/StartupMap176F24574CE1E3C01D2233B123BFBC36.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualReality/VirtualRealityBP/Maps/StartupMap.umap'
+[2019.03.06-15.56.30:355][397]LogFileHelpers: Saving map 'StartupMap' took 1.079
+[2019.03.06-15.56.30:361][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/StartupMap" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualRealityBP/Maps/StartupMap.umap" SILENT=true
+[2019.03.06-15.56.30:378][397]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Saved/StartupMapFCCD91014895A15A905DEE9FF4F2E06A.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESIS-VR/GENESIS/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2019.03.06-15.59.15:567][519]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.06-15.59.16:354][519]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.03.06-15.59.16:835][519]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.481 s
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: === Handled ensure: ===
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: 
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: Ensure condition failed: Found [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 198]
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: Cannot remove redirection from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C, it was not registered
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: Stack: 
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff95bb2ab12 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff967162e08 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff8f3f006a4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff8f3f0bf16 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff8f360f578 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff8f38d8a90 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff8f38d2e9f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff95ae0c7bb UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff95abf8e25 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff95ac92678 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff95ac7857a UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff95ac6b44c UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff972a1de26 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff972a10de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff972a201eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff972a0ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff9aeadca66 USER32.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff9aeadc582 USER32.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff972a216a9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff95ac9f842 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff95ac2738c UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff8f3979816 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff8f3eff798 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff8e9dbdd2f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff8e9eca5d9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.03.06-15.59.16:835][519]LogOutputDevice: Error: [Callstack] 0x00007ff8e9ec389a UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.03.06-15.59.16:836][519]LogOutputDevice: Error: [Callstack] 0x00007ff8e9e22123 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.03.06-15.59.16:836][519]LogOutputDevice: Error: [Callstack] 0x00007ff8e9dc477f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.03.06-15.59.16:836][519]LogOutputDevice: Error: [Callstack] 0x00007ff95ae0c7bb UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.06-15.59.16:836][519]LogOutputDevice: Error: [Callstack] 0x00007ff95abf8e25 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.06-15.59.16:836][519]LogOutputDevice: Error: [Callstack] 0x00007ff95ac92678 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.06-15.59.16:836][519]LogOutputDevice: Error: [Callstack] 0x00007ff95ac7857a UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.06-15.59.16:836][519]LogOutputDevice: Error: [Callstack] 0x00007ff95ac6b44c UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.06-15.59.16:836][519]LogOutputDevice: Error: [Callstack] 0x00007ff972a1de26 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.06-15.59.16:836][519]LogOutputDevice: Error: [Callstack] 0x00007ff972a10de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.06-15.59.16:836][519]LogOutputDevice: Error: [Callstack] 0x00007ff972a201eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.06-15.59.16:836][519]LogOutputDevice: Error: [Callstack] 0x00007ff972a0ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.06-15.59.16:836][519]LogOutputDevice: Error: [Callstack] 0x00007ff9aeadca66 USER32.dll!UnknownFunction []
+[2019.03.06-15.59.16:836][519]LogOutputDevice: Error: [Callstack] 0x00007ff9aeadc582 USER32.dll!UnknownFunction []
+[2019.03.06-15.59.16:836][519]LogOutputDevice: Error: [Callstack] 0x00007ff972a21746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.06-15.59.16:836][519]LogOutputDevice: Error: [Callstack] 0x00007ff6813d5546 UE4Editor.exe!UnknownFunction []
+[2019.03.06-15.59.16:836][519]LogOutputDevice: Error: [Callstack] 0x00007ff6813e596c UE4Editor.exe!UnknownFunction []
+[2019.03.06-15.59.16:836][519]LogOutputDevice: Error: [Callstack] 0x00007ff6813e59ea UE4Editor.exe!UnknownFunction []
+[2019.03.06-15.59.16:836][519]LogOutputDevice: Error: [Callstack] 0x00007ff6813f48da UE4Editor.exe!UnknownFunction []
+[2019.03.06-15.59.16:836][519]LogOutputDevice: Error: [Callstack] 0x00007ff6813f659a UE4Editor.exe!UnknownFunction []
+[2019.03.06-15.59.16:836][519]LogOutputDevice: Error: [Callstack] 0x00007ff9ae7081f4 KERNEL32.DLL!UnknownFunction []
+[2019.03.06-15.59.16:836][519]LogOutputDevice: Error: [Callstack] 0x00007ff9af89a251 ntdll.dll!UnknownFunction []
+[2019.03.06-15.59.16:836][519]LogOutputDevice: Error: 
+[2019.03.06-15.59.16:847][519]LogStats:                SubmitErrorReport -  0.000 s
