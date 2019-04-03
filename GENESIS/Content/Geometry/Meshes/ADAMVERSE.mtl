@@ -1,0 +1,18 @@
+# Exported from Bryce 6.0
+
+newmtl material_1
+    Ns 196
+    d 1.000000
+    illum 2
+    #bump_amt 0.322034
+    #refl_amt 0.000000
+    #amb_amt 0.164706
+    #dif_amt 1.000000
+    #spec_amt 0.305882
+    Ka 0.164706 0.164706 0.164706
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.305882 0.305882 0.305882
+    Tf 1.000000 1.000000 1.000000
+    map_Ka "ADAMVERSE_mtl1_ambicol.bmp"
+    map_Kd "ADAMVERSE_mtl1_diffcol.bmp"
+    map_Bump "ADAMVERSE_mtl1_bumpamt.bmp"
